@@ -1,0 +1,1762 @@
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 32, in go
+    self.p = Process()
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 32, in go
+    self.p = Process(target=get_response)
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    self.p = Process(target=get_response)
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = Process(target=get_response, args =(input))
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = Process(target=get_response, args =(input))
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = Process(target=get_response, args =(self,input))
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = Process(target=self.get_response, args =(self,input))
+NameError: global name 'Process' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = multiprocessing.Process(target=self.get_response, args =(self,input))
+UnboundLocalError: local variable 'input' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+    self.p = multiprocessing.Process(target=self.get_response, args =(self,input))
+UnboundLocalError: local variable 'input' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 39, in go
+    self.p1 = multiprocessing.Process(target=self.get_timer, args = (self))
+  File "G:\Python27\lib\multiprocessing\process.py", line 104, in __init__
+    self._args = tuple(args)
+TypeError: iteration over non-sequence
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 42, in go
+    print 'error occurred1'
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 45, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 45, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 56, in go
+    response = p.start(args=(self,input,self._sessionID))
+NameError: global name 'p' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 45, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 56, in go
+    response = p.start()
+NameError: global name 'p' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 56, in go
+    response = p.start()
+NameError: global name 'p' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+    if timer == 1:
+UnboundLocalError: local variable 'timer' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+    if timer == 1:
+UnboundLocalError: local variable 'timer' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+    if timer == 1:
+UnboundLocalError: local variable 'timer' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 68, in go
+    elif not response == '':
+UnboundLocalError: local variable 'response' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 40, in go
+    self.bot_work(input)
+AttributeError: FrontEndTTY instance has no attribute 'bot_work'
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 52, in go
+    self.display(response, self._sessionID)
+UnboundLocalError: local variable 'response' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 52, in go
+    self.display(response, self._sessionID)
+UnboundLocalError: local variable 'response' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 52, in go
+    self.display(response, self._sessionID)
+UnboundLocalError: local variable 'response' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 54, in go
+    self.display(response, self._sessionID)
+UnboundLocalError: local variable 'response' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 35, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    response = self.submit(input, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\frontend.py", line 17, in submit
+    return howie.core.submit(input, user)
+  File "G:\Python27\Howie-master\howie\core.py", line 137, in submit
+    response = kernel.respond(input, session)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 329, in respond
+    response = self._respond(s, sessionID)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 394, in _respond
+    response += self._processElement(elem, sessionID).strip()
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 425, in _processElement
+    return handlerFunc(elem, sessionID)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 927, in _processTemplate
+    response += self._processElement(e, sessionID)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xeb in position 55: ordinal not in range(128)
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 42, in go
+    response = self.submit(input, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\frontend.py", line 17, in submit
+    return howie.core.submit(input, user)
+  File "G:\Python27\Howie-master\howie\core.py", line 137, in submit
+    response = kernel.respond(input, session)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 329, in respond
+    response = self._respond(s, sessionID)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 394, in _respond
+    response += self._processElement(elem, sessionID).strip()
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 425, in _processElement
+    return handlerFunc(elem, sessionID)
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 927, in _processTemplate
+    response += self._processElement(e, sessionID)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xeb in position 55: ordinal not in range(128)
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 47, in go
+    'text_box':cmd,
+NameError: global name 'cmd' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 47, in go
+    'text_box':cmd,
+NameError: global name 'cmd' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 37, in go
+    while True:
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 38, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+

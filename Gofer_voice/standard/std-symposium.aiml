@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>TELL ME ABOUT REFLECHIR 2K17</pattern>
+<template>
+Reflechir is the annual national level technical symposium of the Electronics and Communication Engineering of K.L.N.College of Engineering. 
+Reflechir was first incepted in the 2000s as a humble affair, by our students and faculties. 
+REFLECHIR 17 provides the perfect platform to showcase technical acumen, compete with peers and most important of all, imbibe inspiration.
+</template>
+</category>
+
+<category>
+<pattern>* ADDRESS * REFLECHIR *</pattern>
+<template>
+<srai>TELL ME ABOUT REFLECHIR 2K17</srai>
+</template>
+</category>
+
+<category>
+<pattern>* TELL * REFLECHIR *</pattern>
+<template>
+<srai>TELL ME ABOUT REFLECHIR 2K17</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WHAT * REFLECHIR *</pattern>
+<template>
+<srai>TELL ME ABOUT REFLECHIR 2K17</srai>
+</template>
+</category>
+
+<category>
+<pattern>* SAY * REFLECHIR *</pattern>
+<template>
+<srai>TELL ME ABOUT REFLECHIR 2K17</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE PRINCIPAL OF KLNCE</pattern>
+<template>
+Dr.V.Ramprasad is the principal of KLNCE
+</template>
+</category>
+
+<category>
+<pattern>* WHO IS THE PRINCIPAL OF KLNCE</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE PRINCIPAL OF KLNCE *</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>*WHO IS THE PRINCIPAL OF KLNCE *</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO * PRINCIPAL * KLNCE</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WHO * PRINCIPAL * KLNCE *</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>PRINCIPAL OF KLNCE</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE PRINCIPAL OF KLN COLLEGE OF ENGINEERING</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO * PRINCIPAL * KLN COLLEGE OF ENGINEERING</pattern>
+<template>
+<srai>WHO IS THE PRINCIPAL OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE FOUNDER OF KLNCE</pattern>
+<template>
+Shri.KLN Krishnan is the founder of KLNCE
+</template>
+</category>
+
+<category>
+<pattern>* WHO IS THE FOUNDER OF KLNCE</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE FOUNDER OF KLNCE *</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WHO IS THE FOUNDER OF KLNCE *</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO * FOUNDER * KLNCE</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WHO * FOUNDER * KLNCE *</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO IS THE FOUNDER OF KLN COLLEGE OF ENGINEERING</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHO * FOUNDER * KLN COLLEGE OF ENGINEERING</pattern>
+<template>
+<srai>WHO IS THE FOUNDER OF KLNCE</srai>
+</template>
+</category>
+
+</aiml>

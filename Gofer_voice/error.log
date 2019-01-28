@@ -1,0 +1,2431 @@
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+  File "G:\Python27\Howie-master\howie\frontends\frontend.py", line 17, in submit
+  File "G:\Python27\Howie-master\howie\core.py", line 152, in submit
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 340, in respond
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 405, in _respond
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 437, in _processElement
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 939, in _processTemplate
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 437, in _processElement
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 856, in _processSrai
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 413, in _respond
+  File "G:\Python27\Howie-master\howie\aiml\Kernel.py", line 31, in speak
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 181, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\driver.py", line 193, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\drivers\sapi5.py", line 124, in startLoop
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'PumpWaitingMessages'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+  File "G:\Python27\Howie-master\howie\frontends\frontend.py", line 17, in submit
+  File "G:\Python27\Howie-master\howie\core.py", line 153, in submit
+  File "G:\Python27\Howie-master\howie\core.py", line 24, in speak
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 181, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\driver.py", line 193, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\drivers\sapi5.py", line 124, in startLoop
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'PumpWaitingMessages'Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\Howie-master\runme.py", line 88, in <module>
+    main()
+  File "G:\Python27\Howie-master\runme.py", line 76, in main
+    speak(var)
+NameError: global name 'speak' is not defined
+
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    hi
+NameError: name 'hi' is not defined
+
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    hello
+NameError: name 'hello' is not defined
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 34, in go
+  File "G:\Python27\Howie-master\howie\frontends\frontend.py", line 19, in submit
+  File "G:\Python27\Howie-master\howie\core.py", line 165, in submit
+  File "G:\Python27\Howie-master\howie\core.py", line 157, in speak
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 181, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\driver.py", line 193, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\drivers\sapi5.py", line 124, in startLoop
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'PumpWaitingMessages'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 33, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 48, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 48, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 50, in go
+    speak("tty speaking")
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 51, in go
+    speak("tty speaking")
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 51, in go
+    speak("tty speaking")
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 48, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 53, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 57, in display
+    speak(output)
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 53, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 57, in display
+    speak(str(output))
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 55, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in display
+    speak(str(output))
+NameError: global name 'speak' is not defined
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 55, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 55, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 60, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in display
+    speak("speaking")
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 30, in speak
+    speech_engine.runAndWait()
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 178, in runAndWait
+    raise RuntimeError('run loop already started')
+RuntimeError: run loop already started
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 63, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 67, in display
+    do_speak("speaking")
+NameError: global name 'do_speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+    self.display(response, self._sessionID)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 68, in display
+    self.do_speak("speaking")
+TypeError: do_speak() takes exactly 1 argument (2 given)
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 69, in display
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 30, in speak
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 181, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\driver.py", line 193, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\drivers\sapi5.py", line 124, in startLoop
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'PumpWaitingMessages'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 64, in go
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 70, in display
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 30, in speak
+  File "G:\Python27\lib\site-packages\pyttsx\engine.py", line 181, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\driver.py", line 193, in runAndWait
+  File "G:\Python27\lib\site-packages\pyttsx\drivers\sapi5.py", line 124, in startLoop
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'PumpWaitingMessages'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 71, in display
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'write'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 57, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 59, in go
+    input = raw_input(">>> ")
+  File "G:\Python27\lib\idlelib\PyShell.py", line 1400, in readline
+    size = len(line)
+TypeError: object of type 'NoneType' has no len()
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 71, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 72, in go
+    response = self.submit(result, self._sessionID)
+UnboundLocalError: local variable 'result' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 40, in go
+    with m as source: audio = r.listen(source)
+NameError: global name 'm' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 58, in go
+    if t in input:
+TypeError: argument of type 'builtin_function_or_method' is not iterable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 58, in go
+    if t in input:
+TypeError: argument of type 'builtin_function_or_method' is not iterable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 58, in go
+    if t in input:
+TypeError: argument of type 'builtin_function_or_method' is not iterable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 60, in go
+    response = GoogleText.price_search(result)
+NameError: global name 'GoogleText' is not defined
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Howie-master_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 51, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 51, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 51, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 48, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 68, in go
+    subprocess.Popen(['python',"simple_videofacerec_worked.py",'-t',"G:\Python27\Faces",'my_model.pkl'])
+NameError: global name 'subprocess' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 68, in go
+    subprocess.Popen(['python',"G:\python27\Gofer_voice\simple_videofacerec_worked.py",'-t',"G:\Python27\Faces",'my_model.pkl'])
+NameError: global name 'subprocess' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 68, in go
+    subprocess.Popen(['python',"G:\python27\Gofer_voice\simple_videofacerec_worked.py",'-t',"G:\Python27\Faces",'my_model.pkl'])
+NameError: global name 'subprocess' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 68, in go
+    subprocess.Popen(['python',"G:\python27\Gofer_voice\simple_videofacerec_worked.py",'-t',"G:\Python27\Faces",'my_model.pkl'])
+NameError: global name 'subprocess' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 54, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 54, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 54, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 54, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 78, in go
+    if go in resullt:
+NameError: global name 'resullt' is not defined
+
+
+Traceback (most recent call last):
+  File "G:\Python27\Gofer_voice\runme.py", line 87, in <module>
+    runme()
+  File "G:\Python27\Gofer_voice\runme.py", line 86, in runme
+    main()
+  File "G:\Python27\Gofer_voice\runme.py", line 82, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\Gofer_voice\runme.py", line 88, in <module>
+    runme()
+  File "G:\Python27\Gofer_voice\runme.py", line 87, in runme
+    main()
+  File "G:\Python27\Gofer_voice\runme.py", line 83, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty (most likely raised during interpreter shutdown):
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 86, in go
+    if fl==1:
+UnboundLocalError: local variable 'fl' referenced before assignment
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 54, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 86, in go
+    if fl==1:
+UnboundLocalError: local variable 'fl' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 86, in go
+    if fl==1:
+UnboundLocalError: local variable 'fl' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 86, in go
+    if fl==1:
+UnboundLocalError: local variable 'fl' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 87, in go
+    if fl==1:
+UnboundLocalError: local variable 'fl' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 53, in go
+    load = facerec_model.facerec()
+  File "G:\Python27\Gofer_voice\facerec_model.py", line 292, in facerec
+    model = load_model(model_filename)
+  File "G:\Python27\facerec\serialization.py", line 13, in load_model
+    return joblib.load(filename)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 575, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 507, in _unpickle
+    obj = unpickler.load()
+  File "G:\Python27\lib\pickle.py", line 864, in load
+    dispatch[key](self)
+  File "G:\Python27\lib\pickle.py", line 1096, in load_global
+    klass = self.find_class(module, name)
+  File "G:\Python27\lib\pickle.py", line 1132, in find_class
+    klass = getattr(mod, name)
+AttributeError: 'module' object has no attribute 'ExtendedPredictableModel'
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 53, in go
+    load = facerec_model.facerec()
+  File "G:\Python27\Gofer_voice\facerec_model.py", line 292, in facerec
+    model = load_model(model_filename)
+  File "G:\Python27\facerec\serialization.py", line 13, in load_model
+    return joblib.load(filename)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 575, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 507, in _unpickle
+    obj = unpickler.load()
+  File "G:\Python27\lib\pickle.py", line 864, in load
+    dispatch[key](self)
+  File "G:\Python27\lib\pickle.py", line 1096, in load_global
+    klass = self.find_class(module, name)
+  File "G:\Python27\lib\pickle.py", line 1132, in find_class
+    klass = getattr(mod, name)
+AttributeError: 'module' object has no attribute 'ExtendedPredictableModel'
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 53, in go
+    load = facerec_model.facerec()
+  File "G:\Python27\Gofer_voice\facerec_model.py", line 292, in facerec
+    model = load_model(model_filename)
+  File "G:\Python27\facerec\serialization.py", line 13, in load_model
+    return joblib.load(filename)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 575, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "G:\Python27\lib\site-packages\sklearn\externals\joblib\numpy_pickle.py", line 507, in _unpickle
+    obj = unpickler.load()
+  File "G:\Python27\lib\pickle.py", line 864, in load
+    dispatch[key](self)
+  File "G:\Python27\lib\pickle.py", line 1096, in load_global
+    klass = self.find_class(module, name)
+  File "G:\Python27\lib\pickle.py", line 1132, in find_class
+    klass = getattr(mod, name)
+AttributeError: 'module' object has no attribute 'ExtendedPredictableModel'
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 53, in go
+    load = facerec_model.facerec()
+NameError: global name 'facerec_model' is not defined
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 61, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 64, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\Gofer_voice\runme.py", line 88, in <module>
+    runme()
+  File "G:\Python27\Gofer_voice\runme.py", line 87, in runme
+    main()
+  File "G:\Python27\Gofer_voice\runme.py", line 83, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 151, in __exit__
+    self.stream.close()
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 166, in close
+    if not self.pyaudio_stream.is_stopped():
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 543, in is_stopped
+    return pa.is_stream_stopped(self._stream)
+IOError: [Errno -9988] Stream closed
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 108, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 156, in go
+    time = time.strftime("%I:%M")
+UnboundLocalError: local variable 'time' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 156, in go
+    time = time.strftime("%I:%M")
+UnboundLocalError: local variable 'time' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 152, in go
+    date = time.strftime("%d/%m/%Y")
+UnboundLocalError: local variable 'time' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 153, in go
+    date = time.strftime("%d/%m/%Y")
+UnboundLocalError: local variable 'time' referenced before assignment
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 160, in go
+    speech.say('the time now is ' + time)
+TypeError: cannot concatenate 'str' and 'module' objects
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 68, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+Exception in thread tty (most likely raised during interpreter shutdown):Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 166, in go
+    for sp in speak :
+NameError: global name 'speak' is not defined
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 176, in go
+    notes.takeNote(result)
+TypeError: takeNote() takes no arguments (1 given)
+
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 176, in go
+    notes.takeNote(result)
+TypeError: takeNote() takes no arguments (1 given)
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 170, in go
+  File "G:\Python27\Gofer_voice\notes.py", line 103, in speakNote
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 62, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 693, in terminate
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'terminate'
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 170, in go
+    notes.speakNote(result)
+  File "G:\Python27\Gofer_voice\notes.py", line 89, in speakNote
+    if _nl in result:
+UnboundLocalError: local variable '_nl' referenced before assignment
+
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 62, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 62, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 62, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-brain.aiml:
+standard\std-brain.aiml:1132:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 99, in go
+    captureImage.capture()
+NameError: global name 'captureImage' is not defined
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 100, in go
+    captureImage.capture()
+  File "G:\Python27\Gofer_voice\captureImage.py", line 10, in capture
+    img_list = os.listdir("capturedImages")
+NameError: global name 'os' is not defined
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 114, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 65, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 196, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 110, in addActivity
+    factivity = hear()
+NameError: global name 'hear' is not defined
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 196, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 110, in addActivity
+    factivity = hear()
+TypeError: 'module' object is not callable
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 196, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 112, in addActivity
+    r_time = get_time(factivity)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 155, in get_time
+    re_time = str(hr) + ':' + str(mm)
+UnboundLocalError: local variable 'hr' referenced before assignment
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 196, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 112, in addActivity
+    r_time = get_time(factivity)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 165, in get_time
+    re_time = str(hr) + ':' + str(mm)
+UnboundLocalError: local variable 'hr' referenced before assignment
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 196, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 112, in addActivity
+    r_time = get_time(factivity)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 176, in get_time
+    re_time = str(hr) + ':' + str(mm)
+UnboundLocalError: local variable 'hr' referenced before assignment
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 69, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+<type 'exceptions.AttributeError'>: __exit__
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 203, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 116, in addActivity
+    r_time = get_time(factivity)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 180, in get_time
+    re_time = str(hr) + ':' + str(mm)
+UnboundLocalError: local variable 'hr' referenced before assignment
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 203, in go
+    addActivity(result)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 116, in addActivity
+    r_time = get_time(factivity)
+  File "G:\Python27\Gofer_voice\howie\frontends\remainder.py", line 180, in get_time
+    re_time = str(hr) + ':' + str(mm)
+UnboundLocalError: local variable 'hr' referenced before assignment
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+  File "G:\Python27\lib\threading.py", line 754, in run
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 154, in __exit__
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 689, in terminate
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 452, in close
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'close'
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+
+FATAL PARSE ERROR in file standard\std-robot.aiml:
+standard\std-robot.aiml:7243:2: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "G:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "G:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "G:\Python27\Gofer_voice\howie\frontends\tty.py", line 70, in go
+    with m as source: audio = r.listen(source)
+  File "G:\Python27\lib\site-packages\speech_recognition\__init__.py", line 141, in __enter__
+    input=True,  # stream is an input stream
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 750, in open
+    stream = Stream(self, *args, **kwargs)
+  File "G:\Python27\lib\site-packages\pyaudio.py", line 441, in __init__
+    self._stream = pa.open(**arguments)
+IOError: [Errno -9985] Device unavailable
+

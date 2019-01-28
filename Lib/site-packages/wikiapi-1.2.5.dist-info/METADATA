@@ -1,0 +1,27 @@
+Metadata-Version: 2.0
+Name: wikiapi
+Version: 1.2.5
+Summary: A basic python library enabling access to Wikipedia.org's search results and article content.
+Home-page: UNKNOWN
+Author: Richard O'Dwyer
+Author-email: richard@richard.do
+License: Creative Commons Attribution-Noncommercial-Share Alike license
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Internet :: WWW/HTTP
+Requires-Dist: beautifulsoup4
+Requires-Dist: pyquery
+Requires-Dist: requests
+Requires-Dist: six
+Requires-Dist: wheel
+
+https://github.com/richardasaurus/wiki-api
+
+

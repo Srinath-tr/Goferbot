@@ -1,0 +1,3 @@
+pycrypto
+python-axolotl-curve25519
+protobuf>=3.0.0.b2

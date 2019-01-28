@@ -1,0 +1,28 @@
+<html>
+<head>
+  <title>Handle Input</title>
+</head>
+<body>
+<form method="post" action="handleinput.php">
+  First name: <input name="firstname" type="text" value="">
+  <br>
+  Last name: <input name="lastname" type="text" value="">
+  <br>
+  <br>
+  <input type="submit" name="submit" value="Submit">
+</form>
+<?php
+  $firstname = $_POST["firstname"];
+  $lastname = $_POST["lastname"];
+  if ( !empty($firstname) && !empty($lastname)) {
+    echo "Welcome ",$firstname," ",$lastname,"!";
+  }
+  else {
+    echo "Please first enter your name on the input form.";
+  }
+?>
+  <br>
+    <br>
+  <a href="javascript: history.back()">Back to Input Form</a>
+</body>
+</html>

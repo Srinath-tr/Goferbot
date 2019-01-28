@@ -1,0 +1,57 @@
+*** Installation started 2017/01/20 20:50 ***
+Source: F:\Downloads\pocketsphinx-0.0.5.win32-py2.7.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]pocketsphinx-py2.7
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]DisplayName=Python 2.7 pocketsphinx-0.0.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]UninstallString="G:\Python27\Removepocketsphinx.exe" -u "G:\Python27\pocketsphinx-wininst.log"
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.py
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\_pocketsphinx.pyd
+100 Made Dir: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\dependency_links.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\PKG-INFO
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\SOURCES.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\top_level.txt
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.py
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\_sphinxbase.pyd
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyc
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyc
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyo
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyo
+*** Installation started 2017/01/20 20:53 ***
+Source: F:\Downloads\pocketsphinx-0.0.5.win32-py2.7.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]DisplayName=Python 2.7 pocketsphinx-0.0.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]UninstallString="G:\Python27\Removepocketsphinx.exe" -u "G:\Python27\pocketsphinx-wininst.log"
+100 Made Dir: G:\Python27\Lib\site-packages\pocketsphinx
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.py
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\_pocketsphinx.pyd
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\dependency_links.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\PKG-INFO
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\SOURCES.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\top_level.txt
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.py
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\_sphinxbase.pyd
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyc
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyc
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyo
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyo
+*** Installation started 2017/01/20 21:09 ***
+Source: F:\Downloads\pocketsphinx-0.0.5.win32-py2.7.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]DisplayName=Python 2.7 pocketsphinx-0.0.5
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\pocketsphinx-py2.7]UninstallString="G:\Python27\Removepocketsphinx.exe" -u "G:\Python27\pocketsphinx-wininst.log"
+100 Made Dir: G:\Python27\Lib\site-packages\pocketsphinx
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.py
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\_pocketsphinx.pyd
+100 Made Dir: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\dependency_links.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\PKG-INFO
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\SOURCES.txt
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx-0.0.5-py2.7.egg-info\top_level.txt
+100 Made Dir: G:\Python27\Lib\site-packages\sphinxbase
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.py
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\_sphinxbase.pyd
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyc
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyc
+200 File Copy: G:\Python27\Lib\site-packages\sphinxbase\sphinxbase.pyo
+200 File Copy: G:\Python27\Lib\site-packages\pocketsphinx\pocketsphinx.pyo

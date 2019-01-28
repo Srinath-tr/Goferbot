@@ -1,0 +1,4 @@
+## Actual config starts below ##
+  cc=91 #if not specified it will be autodetected
+  phone=917092981752
+  password=BIeu2r9O/APvK2HSKeWJHrtzEBo=

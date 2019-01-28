@@ -1,0 +1,4 @@
+#!G:\Python27\python.exe
+# EASY-INSTALL-SCRIPT: 'yowsup2==2.5.0','yowsup-cli'
+__requires__ = 'yowsup2==2.5.0'
+__import__('pkg_resources').run_script('yowsup2==2.5.0', 'yowsup-cli')

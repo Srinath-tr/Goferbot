@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: hipchat
+Version: 0.0.1
+Summary: Pythonic interface on top of HipChat RPC
+Home-page: UNKNOWN
+Author: Yaakov M Nemoy
+Author-email: loup@hexago.nl
+License: WTFPL
+Description: UNKNOWN
+Platform: UNKNOWN

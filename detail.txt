@@ -1,0 +1,376 @@
+**Notice:** While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience. 
+
+Skip to content
+
+▼ Close
+
+  * [Python](/ "The Python Programming Language" )
+  * [PSF](/psf-landing/ "The Python Software Foundation" )
+  * [Docs](https://docs.python.org "Python Documentation" )
+  * [PyPI](https://pypi.python.org/ "Python Package Index" )
+  * [Jobs](/jobs/ "Python Job Board" )
+  * [Community](/community/ "Python Community" )
+
+▲ The Python Network
+
+#  [![python™](/static/img/python-logo.png)](/)
+
+≡ Menu Search This Site GO
+
+  * **A A**
+    * [Smaller](javascript:; "Make Text Smaller" )
+    * [Larger](javascript:; "Make Text Larger" )
+    * [Reset](javascript:; "Reset any font size changes I have made" )
+
+  * Socialize
+    * [Google+](http://plus.google.com/+Python)
+    * [Facebook](http://www.facebook.com/pythonlang?fref=ts)
+    * [Twitter](http://twitter.com/ThePSF)
+    * [Chat on IRC](/community/irc/)
+
+  * [Sign In](/accounts/login/ "Sign Up or Sign In to Python.org" )
+    * [Sign Up / Register](/accounts/signup/)
+    * [Sign In](/accounts/login/)
+
+  * [About](/about/ "" )
+    * [Applications](/about/apps/ "" )
+    * [Quotes](/about/quotes/ "" )
+    * [Getting Started](/about/gettingstarted/ "" )
+    * [Help](/about/help/ "" )
+    * [Python Brochure](http://brochure.getpython.info/ "" )
+  * [Downloads](/downloads/ "" )
+    * [All releases](/downloads/ "" )
+    * [Source code](/downloads/source/ "" )
+    * [Windows](/downloads/windows/ "" )
+    * [Mac OS X](/downloads/mac-osx/ "" )
+    * [Other Platforms](/download/other/ "" )
+    * [License](https://docs.python.org/3/license.html "" )
+    * [Alternative Implementations](/download/alternatives "" )
+  * [Documentation](/doc/ "" )
+    * [Docs](/doc/ "" )
+    * [Audio/Visual Talks](/doc/av "" )
+    * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide "" )
+    * [Developer's Guide](https://docs.python.org/devguide/ "" )
+    * [FAQ](https://docs.python.org/faq/ "" )
+    * [Non-English Docs](http://wiki.python.org/moin/Languages "" )
+    * [PEP Index](http://python.org/dev/peps/ "" )
+    * [Python Books](https://wiki.python.org/moin/PythonBooks "" )
+  * [Community](/community/ "" )
+    * [Diversity](/community/diversity/ "" )
+    * [IRC](/community/irc/ "" )
+    * [Mailing Lists](/community/lists/ "" )
+    * [Python Conferences](/community/workshops/ "" )
+    * [Special Interest Groups](/community/sigs/ "" )
+    * [Python Wiki](https://wiki.python.org/moin/ "" )
+    * [Python Logo](/community/logos/ "" )
+    * [Merchandise](/community/merchandise/ "" )
+    * [Community Awards](/community/awards "" )
+  * [Success Stories](/about/success/ "success-stories" )
+    * [Arts](/about/success/#arts "" )
+    * [Business](/about/success/#business "" )
+    * [Education](/about/success/#education "" )
+    * [Engineering](/about/success/#engineering "" )
+    * [Government](/about/success/#government "" )
+    * [Scientific](/about/success/#scientific "" )
+    * [Software Development](/about/success/#software-development "" )
+  * [News](/blogs/ "News from around the Python world" )
+    * [Python News](/blogs/ "Python Insider Blog Posts" )
+    * [Community News](http://planetpython.org/ "Planet Python" )
+    * [PSF News](http://pyfound.blogspot.com/ "PSF Blog" )
+    * [PyCon News](http://pycon.blogspot.com/ "PyCon Blog" )
+  * [Events](/events/ "" )
+    * [Python Events](/events/python-events "" )
+    * [User Group Events](/events/python-user-group/ "" )
+    * [Python Events Archive](/events/python-events/past/ "" )
+    * [User Group Events Archive](/events/python-user-group/past/ "" )
+    * [Submit an Event](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event "" )
+
+  * [&gt;_ Launch Interactive Shell ](/shell/)
+
+  *     # Python 3: Fibonacci series up to n
+
+    >>> def fib(n):
+
+    >>>     a, b = 0, 1
+
+    >>>     while a < n:
+
+    >>>         print(a, end=' ')
+
+    >>>         a, b = b, a+b
+
+    >>>     print()
+
+    >>> fib(1000)
+
+    0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+
+# Functions Defined
+
+The core of extensible programming is defining functions. Python allows
+mandatory and optional arguments, keyword arguments, and even arbitrary
+argument lists. [More about defining functions in Python
+3](//docs.python.org/3/tutorial/controlflow.html#defining-functions)
+
+  *     # Python 3: List comprehensions
+
+    >>> fruits = ['Banana', 'Apple', 'Lime']
+
+    >>> loud_fruits = [fruit.upper() for fruit in fruits]
+
+    >>> print(loud_fruits)
+
+    ['BANANA', 'APPLE', 'LIME']
+
+    
+
+    # List and the enumerate function
+
+    >>> list(enumerate(fruits))
+
+    [(0, 'Banana'), (1, 'Apple'), (2, 'Lime')]
+
+# Compound Data Types
+
+Lists (known as arrays in other languages) are one of the compound data types
+that Python understands. Lists can be indexed, sliced and manipulated with
+other built-in functions. [More about lists in Python
+3](//docs.python.org/3/tutorial/introduction.html#lists)
+
+  *     # Python 3: Simple arithmetic
+
+    >>> 1 / 2
+
+    0.5
+
+    >>> 2 ** 3
+
+    8
+
+    >>> 17 / 3  # classic division returns a float
+
+    5.666666666666667
+
+    >>> 17 // 3  # floor division
+
+    5
+
+# Intuitive Interpretation
+
+Calculations are simple with Python, and expression syntax is straightforward:
+the operators `+`, `-`, `*` and `/` work as expected; parentheses `()` can be
+used for grouping. [More about simple math functions in Python
+3](http://docs.python.org/3/tutorial/introduction.html#using-python-
+as-a-calculator).
+
+  *     # Python 3: Simple output (with Unicode)
+
+    >>> print("Hello, I'm Python!")
+
+    Hello, I'm Python!
+
+    
+
+    # Input, assignment
+
+    >>> name = input('What is your name?\n')
+
+    >>> print('Hi, %s.' % name)
+
+    What is your name?
+
+    Python
+
+    Hi, Python.
+
+# Quick &amp; Easy to Learn
+
+Experienced programmers in any other language can pick up Python very quickly,
+and beginners find the clean syntax and indentation structure easy to learn.
+[Whet your appetite](//docs.python.org/3/tutorial/) with our Python 3
+overview.
+
+  *     # For loop on a list
+
+    >>> numbers = [2, 4, 6, 8]
+
+    >>> product = 1
+
+    >>> for number in numbers:
+
+    ...    product = product * number
+
+    ... 
+
+    >>> print('The product is:', product)
+
+    The product is: 384
+
+# All the Flow You'd Expect
+
+Python knows the usual control flow statements that other languages speak --
+`if`, `for`, `while` and `range` -- with some of its own twists, of course.
+[More control flow tools in Python
+3](//docs.python.org/3/tutorial/controlflow.html)
+
+Python is a programming language that lets you work quickly and integrate
+systems more effectively. [Learn More](/doc/)
+
+## Get Started
+
+Whether you're new to programming or an experienced developer, it's easy to
+learn and use Python.
+
+[Start with our Beginner's Guide](/about/gettingstarted/)
+
+## Download
+
+Python source code and installers are available for download for all versions!
+Not sure which version to use? [Check
+here](https://wiki.python.org/moin/Python2orPython3).
+
+Latest: [Python 3.6.0](/downloads/release/python-360/) \- [Python
+2.7.13](/downloads/release/python-2713/)
+
+## Docs
+
+Documentation for Python's standard library, along with tutorials and guides,
+are available online.
+
+[docs.python.org](https://docs.python.org)
+
+## Jobs
+
+Looking for work or have a Python related position that you're trying to hire
+for? Our **relaunched community-run job board** is the place to go.
+
+[jobs.python.org](//jobs.python.org)
+
+## Latest News
+
+[More](http://blog.python.org "More News" )
+
+  * 2017-01-17 [Python 3.5.3 and Python 3.4.6 are now available for download. ...](http://feedproxy.google.com/~r/PythonInsider/~3/NeIHRAidlpc/python-353-and-346-are-now-available.html)
+  * 2017-01-03 [Python 3.5.3rc1 and Python 3.4.6rc1 are now available for download. ...](http://feedproxy.google.com/~r/PythonInsider/~3/UoiMThSwgQM/python-353rc1-and-python-346rc1-are-now.html)
+  * 2016-12-23 [Python 3.6.0 is now available!   Python 3.6.0 is the ...](http://feedproxy.google.com/~r/PythonInsider/~3/4gOtq8ChYHk/python-360-is-now-available.html)
+  * 2016-12-17 [The latest bugfix release of the Python 2.7.13 series is ...](http://feedproxy.google.com/~r/PythonInsider/~3/LLpTSlyUots/python-2713-released.html)
+  * 2016-12-17 [Python 3.6.0rc2 is the second release candidate for Python 3.6, ...](http://feedproxy.google.com/~r/PythonInsider/~3/4x7DmyL7LXQ/python-360-release-candidate-2-is-now.html)
+
+## Upcoming Events
+
+[More](/events/calendars/ "More Events" )
+
+  * 2017-02-10 [PyCon Colombia 2017](/events/python-events/481/)
+  * 2017-02-16 [PyCon Pune 2017](/events/python-events/474/)
+  * 2017-02-17 [Iran Pycon "IrPycon"](/events/python-events/479/)
+  * 2017-02-17 [Swiss Python Summit](/events/python-events/482/)
+  * 2017-02-19 [PyWeek 23 - Python community game jam](/events/python-events/500/)
+
+## Success Stories
+
+[More](/success-stories/ "More Success Stories" )
+
+> [ILM runs a batch processing environment capable of modeling, rendering and
+compositing tens of thousands of motion picture frames per day. Thousands of
+machines running Linux, IRIX, Compaq Tru64, OS X, Solaris, and Windows join
+together to provide a production pipeline used by ~800 users daily. Speed of
+development is key, and Python was a faster way to code (and re-code) the
+programs that control this production pipeline.](/success-stories/industrial-
+light-magic-runs-python/)
+
+[Industrial Light &amp; Magic Runs on Python](/success-stories/industrial-
+light-magic-runs-python/) _by Tim Fortenberry_  
+  
+---  
+  
+## Use Python for…
+
+[More](/about/apps "More Applications" )
+
+  * **Web Development**: [Django](http://www.djangoproject.com/), [Pyramid](http://www.pylonsproject.org/), [Bottle](http://bottlepy.org), [Tornado](http://tornadoweb.org), [Flask](http://flask.pocoo.org/), [web2py](http://www.web2py.com/)
+  * **GUI Development**: [tkInter](http://wiki.python.org/moin/TkInter), [PyGObject](https://wiki.gnome.org/Projects/PyGObject), [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro), [PySide](https://wiki.qt.io/PySide), [Kivy](https://kivy.org/), [wxPython](http://www.wxpython.org/)
+  * **Scientific and Numeric**:  [SciPy](http://www.scipy.org), [Pandas](http://pandas.pydata.org/), [IPython](http://ipython.org)
+  * **Software Development**: [Buildbot](http://buildbot.net/), [Trac](http://trac.edgewall.org/), [Roundup](http://roundup.sourceforge.net/)
+  * **System Administration**: [Ansible](http://www.ansible.com), [Salt](http://www.saltstack.com), [OpenStack](https://www.openstack.org)
+
+##  &gt;&gt;&gt; [Python Enhancement Proposals (PEPs)](/dev/peps/): The future
+of Python is discussed here. [ RSS](/dev/peps/peps.rss)
+
+##  &gt;&gt;&gt; [Python Software Foundation](/psf/)
+
+The mission of the Python Software Foundation is to promote, protect, and
+advance the Python programming language, and to support and facilitate the
+growth of a diverse and international community of Python programmers. [Learn
+more](/psf/)
+
+[Become a Member](/users/membership/) [Donate to the PSF](/psf/donations/)
+
+▲ Back to Top
+
+  * [About](/about/)
+    * [Applications](/about/apps/ "" )
+    * [Quotes](/about/quotes/ "" )
+    * [Getting Started](/about/gettingstarted/ "" )
+    * [Help](/about/help/ "" )
+    * [Python Brochure](http://brochure.getpython.info/ "" )
+  * [Downloads](/downloads/)
+    * [All releases](/downloads/ "" )
+    * [Source code](/downloads/source/ "" )
+    * [Windows](/downloads/windows/ "" )
+    * [Mac OS X](/downloads/mac-osx/ "" )
+    * [Other Platforms](/download/other/ "" )
+    * [License](https://docs.python.org/3/license.html "" )
+    * [Alternative Implementations](/download/alternatives "" )
+  * [Documentation](/doc/)
+    * [Docs](/doc/ "" )
+    * [Audio/Visual Talks](/doc/av "" )
+    * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide "" )
+    * [Developer's Guide](https://docs.python.org/devguide/ "" )
+    * [FAQ](https://docs.python.org/faq/ "" )
+    * [Non-English Docs](http://wiki.python.org/moin/Languages "" )
+    * [PEP Index](http://python.org/dev/peps/ "" )
+    * [Python Books](https://wiki.python.org/moin/PythonBooks "" )
+  * [Community](/community/)
+    * [Diversity](/community/diversity/ "" )
+    * [IRC](/community/irc/ "" )
+    * [Mailing Lists](/community/lists/ "" )
+    * [Python Conferences](/community/workshops/ "" )
+    * [Special Interest Groups](/community/sigs/ "" )
+    * [Python Wiki](https://wiki.python.org/moin/ "" )
+    * [Python Logo](/community/logos/ "" )
+    * [Merchandise](/community/merchandise/ "" )
+    * [Community Awards](/community/awards "" )
+  * [Success Stories](/about/success/ "success-stories" )
+    * [Arts](/about/success/#arts "" )
+    * [Business](/about/success/#business "" )
+    * [Education](/about/success/#education "" )
+    * [Engineering](/about/success/#engineering "" )
+    * [Government](/about/success/#government "" )
+    * [Scientific](/about/success/#scientific "" )
+    * [Software Development](/about/success/#software-development "" )
+  * [News](/blogs/ "News from around the Python world" )
+    * [Python News](/blogs/ "Python Insider Blog Posts" )
+    * [Community News](http://planetpython.org/ "Planet Python" )
+    * [PSF News](http://pyfound.blogspot.com/ "PSF Blog" )
+    * [PyCon News](http://pycon.blogspot.com/ "PyCon Blog" )
+  * [Events](/events/)
+    * [Python Events](/events/python-events "" )
+    * [User Group Events](/events/python-user-group/ "" )
+    * [Python Events Archive](/events/python-events/past/ "" )
+    * [User Group Events Archive](/events/python-user-group/past/ "" )
+    * [Submit an Event](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event "" )
+  * [Contributing](/dev/)
+    * [Developer's Guide](http://docs.python.org/devguide/ "" )
+    * [Issue Tracker](http://bugs.python.org/ "" )
+    * [python-dev list](https://mail.python.org/mailman/listinfo/python-dev "" )
+    * [Core Mentorship](/dev/core-mentorship/ "" )
+
+▲ Back to Top
+
+  * [Help &amp; General Contact](/about/help/)
+  * [Diversity Initiatives](/community/diversity/)
+  * [Submit Website Bug](https://github.com/python/pythondotorg/issues)
+  * [Status ](https://status.python.org/)
+
+Copyright (C)2001-2017.  [Python Software Foundation](/psf-landing/)  [Legal
+Statements](/about/legal/)  [Privacy Policy](/privacy/)

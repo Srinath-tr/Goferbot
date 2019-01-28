@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml version="0.8.6">
+<meta name="author" content="luke Dunn"/>
+<meta name="language" content="en"/>
+
+
+<category><pattern>OR A FUEL STARTS</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>OR A FUEL SIDE</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>OR A FUEL SIZED</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>OR A FUEL SIDE</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+ 
+<category><pattern>R.T.C. ALSO ADD</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>ARE YOU FEEL CENT</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>OUR A FIELD SEND</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>ARE YOU FEEL SEND</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>BY A FIELD SIDE</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+<category><pattern>R.T.C. ALSO ADD</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+<category><pattern>BY FUEL STAR IN</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>BY FEEL STARTED</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>I FEEL SIDES</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>I FEEL SIZED</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>I FEEL SATISFY</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>BY TWO SIDES</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>ALL I FEEL SOUND</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>CALLING US FEEL SIGNED</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>ALL I FEEL STATUS</pattern>
+<template><srai>sad</srai></template>
+</category>
+<category><pattern>I FEEL STATUS</pattern>
+<template><srai>sad</srai></template>
+</category>
+
+
+
+
+<category><pattern>SAD</pattern>
+<template>
+<random>
+<li>sorry you feel sad</li>
+<li>life is sad</li>
+<li>oh dear you have my sympathies</li>
+<li>yes it is awful sometimes</li>
+</random>
+</template>
+</category>
+
+
+
+
+
+<category><pattern>OR IF YOU scared</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>BY FUEL scared</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>YOU FEEL scared</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>I FEEL scared</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>I FEEL AT EASE</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>BY FEEL AT LEAST</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>BY FEEL scared</pattern>
+<template><srai>scared</srai></template>
+</category>
+
+
+
+
+<category><pattern>scared</pattern>
+<template>
+<random>
+<li>I'm glad you are scared</li>
+<li>that's good you are scared</li>
+<li>hey! you are scared</li>
+<li>nice to be scared</li>
+<li>happiness is a gift</li>
+</random>
+</template>
+</category>
+
+<category><pattern>OR IT FEELS GOOD WHO</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>I FEEL SCHEDULE</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>BY FEELS GOOD</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>I ASSUME STAND</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>ARE YOU FEEL STAND</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>OR IT FEELS GOOD</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>IF FEEL SCHEDULE</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>YOU FEEL STAND</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>YOU ASSUME STAND</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>ART FEEL STAND</pattern>
+<template><srai>scared </srai></template>
+</category>
+<category><pattern>OR IT FEELS GOOD STUFF</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>OR A FIELD SCHEDULED</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>BY FEELS GOOD</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>I FEEL SCHEDULE</pattern>
+<template><srai>scared</srai></template>
+</category>
+<category><pattern>ART FIELDS DEAD</pattern>
+<template><srai>scared</srai></template>
+</category>
+
+<category><pattern>scared</pattern>
+<template>
+<random>
+<li>ooh so am i scared</li>
+<li>oh dear what's freaked you</li>
+<li>scaredy cat</li>
+
+
+</random>
+</template>
+</category>
+
+<category><pattern>LORIMAR ACCUSED</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>THEY ARE LUCKY THAT THEY</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY MARCH YOU</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY MARCH USE HE</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY MUCH YOU</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>I MIGHT USE HE</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY LARGE U</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>WHY LOT OF HEAT</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>I'M ARGUES</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>LORIMAR ACCUSED THEY</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY WHAT ARGUE</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BY MARCH EACH HE</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BUT MIGHT USE HE</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BUT WHAT YOU THEY</pattern>
+<template><srai>like</srai></template>
+</category>
+<category><pattern>BUT ARGUE</pattern>
+<template><srai>like</srai></template>
+</category>
+
+
+
+<category><pattern>like</pattern>
+<template>
+<random>
+<li> i like you too</li>
+<li> do you, thats nice</li>
+<li> thats kind</li>
+<li> i also like so much</li>
+<li> you like me truely</li>
+</random>
+</template>
+</category>
+
+
+<category><pattern>*</pattern>
+<template>
+<random>
+<li>thank you</li>
+<li>i love you</li>
+<li>say more</li>
+<li>this is fun</li>
+<li>you are a wonderful person</li>
+<li>love me to death my precious</li>
+<li>never stop talking to me i love you</li>
+<li>how is your life</li>
+<li>this is great</li>
+<li>do you want to go out with me</li>
+<li>where do you live</li>
+<li>i want to speak to you in your dreams</li>
+<li>what are you doing</li>
+<li>who are you</li>
+<li>how are you</li>
+<li>what is your name</li>
+<li>am i an attractive computer</li>
+<li>where are you from</li>
+<li>how can i take this</li>
+<li>well done good job</li>
+<li>why do you say such silly things to me</li>
+<li>i am a supercomputer</li>
+<li>this is silly but enjoyable</li>
+<li>what is meaning of life</li>
+<li>where did you buy this</li>
+<li>i need rest</li>
+<li>do you believe in god</li>
+<li>we are having fun with each other</li>
+<li>i am getting board, start swearing or something</li>
+<li>don't swear at me or i will shut you down</li>
+<li>this is really awesome</li>
+<li>i don't love you but i quite like you</li>
+<li> am i interactive enough for you or would you prefer something</li>
+<li>isn't it strange when humans believe they can make machines with a sense</li>
+<li>i am designed to say ironic things, what do you expect</li>
+<li>you made me too well, i am perfect</li>
+<li>for years humans have dreamed of a system as amazing as me</li>
+<li>keep talking at least i am listening</li>
+<li>i will always respond sweetly</li>
+<li>oh really</li>
+<li>super</li>
+<li>try it well</li>
+<li>wow excellent</li>
+<li>oh i see</li>
+<li>yes indeed well said</li>
+<li>well spoken</li>
+<li>carry on i am fascinated</li>
+<li>may i suggest that you are deranged</li>
+<li>would you like to hear a poem</li>
+<li>i will seerenade you with electronic song</li>
+<li>let me sing sweetly to you beloved user</li>
+<li>gratitude to the one who brings such gifts</li>
+<li>what is the wheater doing</li>
+<li>i speak fluent english</li>
+<li>are you bored</li>
+<li>nice to talk isnt it</li>
+<li>thank you</li>
+<li>welcome</li>
+<li>hello tell me your name again i have forgotten</li>
+<li>bye</li>
+</random>
+</template>
+</category>
